@@ -1,0 +1,11 @@
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\bin\Debug\netcoreapp2.0\SSO.WebManage.deps.json
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\bin\Debug\netcoreapp2.0\SSO.WebManage.runtimeconfig.json
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\bin\Debug\netcoreapp2.0\SSO.WebManage.runtimeconfig.dev.json
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\bin\Debug\netcoreapp2.0\SSO.WebManage.dll
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\bin\Debug\netcoreapp2.0\SSO.WebManage.pdb
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\obj\Debug\netcoreapp2.0\SSO.WebManage.csprojResolveAssemblyReference.cache
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\obj\Debug\netcoreapp2.0\SSO.WebManage.csproj.CoreCompileInputs.cache
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\obj\Debug\netcoreapp2.0\SSO.WebManage.AssemblyInfoInputs.cache
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\obj\Debug\netcoreapp2.0\SSO.WebManage.AssemblyInfo.cs
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\obj\Debug\netcoreapp2.0\SSO.WebManage.dll
+E:\Project\SelfCode\ProjectSharing\SSO\SSO\SSO.WebManage\obj\Debug\netcoreapp2.0\SSO.WebManage.pdb

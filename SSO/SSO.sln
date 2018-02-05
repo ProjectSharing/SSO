@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO.WebManage", "SSO.WebManage\SSO.WebManage.csproj", "{126E2E57-430B-4E04-8678-9FDDF90CFA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126E2E57-430B-4E04-8678-9FDDF90CFA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126E2E57-430B-4E04-8678-9FDDF90CFA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126E2E57-430B-4E04-8678-9FDDF90CFA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126E2E57-430B-4E04-8678-9FDDF90CFA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6217B23-DBCA-4EA0-A54C-862CA76200F8}
+	EndGlobalSection
+EndGlobal
